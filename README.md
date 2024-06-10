@@ -1,4 +1,3 @@
 # angels-hotels
 
-<a href="htpps://gabriellnascimento.github.io/angels-hostels/">Click here!</a>
- 
+<a href="https://gabriellnascimento.github.io/angels-hotels/index.html">Click Here!</a>
